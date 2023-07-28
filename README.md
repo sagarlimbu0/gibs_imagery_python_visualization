@@ -9,7 +9,9 @@
 ## Example: 
 ### MODIS11 LST
 - Retreiving raster files using GDAL and creating animation from MODIS11 Land Surface Temperture
+- Files represent a single month of LST global variation 
 ![modis11](https://github.com/sagarlimbu0/gibs_imagery_python_visualization/blob/main/screenshots/modis_lst_world.gif)
+
 
 ### Agricultural Cropland
 ![cropland](https://github.com/sagarlimbu0/gibs_imagery_python_visualization/blob/main/screenshots/global_crop.png)
