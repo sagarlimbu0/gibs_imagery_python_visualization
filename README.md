@@ -12,6 +12,9 @@
 - Files represent a single month of LST global variation 
 ![modis11](https://github.com/sagarlimbu0/gibs_imagery_python_visualization/blob/main/screenshots/modis_lst_world.gif)
 
+### MODIS: Sea Surface Temperature
+- global coverage for daily. month: April, 2023
+![](https://github.com/sagarlimbu0/gibs_imagery_python_visualization/blob/main/screenshots/MODIS_Aqua_L2_Sea_Surface_Temp_Day_world_2023_04_.gif)
 
 ### Agricultural Cropland
 ![cropland](https://github.com/sagarlimbu0/gibs_imagery_python_visualization/blob/main/screenshots/global_crop.png)
