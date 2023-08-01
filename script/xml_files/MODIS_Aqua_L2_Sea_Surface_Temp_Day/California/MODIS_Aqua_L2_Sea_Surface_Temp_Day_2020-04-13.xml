@@ -1,0 +1,13 @@
+<GDAL_WMS>
+      <Service name="TiledWMS">
+        <ServerUrl>https://gibs.earthdata.nasa.gov/twms/epsg4326/best/twms.cgi?</ServerUrl>
+        <TiledGroupName>MODIS Aqua L2 Sea Surface Temp Day tileset</TiledGroupName>
+        <Change key="${time}">2020-04-13</Change>
+        <DataWindow>
+            <UpperLeftX>33.659541</UpperLeftX>
+            <UpperLeftY>34.337306</UpperLeftY>
+            <LowerRightX>-118.6681779</LowerRightX>
+            <LowerRightY>-118.1552947</LowerRightY>
+        </DataWindow>
+      </Service>
+    </GDAL_WMS>
